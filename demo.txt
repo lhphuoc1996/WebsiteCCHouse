@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 CCHouse Company
 421 Su Van Hanh
 OK
+=======
+>>>>>>> parent of 7f8c353... Add content in demo.txt
